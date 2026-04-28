@@ -28,41 +28,29 @@ Rodent navigation paradigms · VR wayfinding studies with human subjects · rein
 <tr>
 <td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/FOUNDATION-475569?style=flat-square&labelColor=475569" alt="Foundation" />
-
 ### [core](https://github.com/OpenApparatus/core)
 
 The foundation that every other project builds on — and the one you can use directly in your own analysis or simulation pipelines.
 
-<br>
-
-<a href="https://github.com/OpenApparatus/core"><img src="https://img.shields.io/badge/Open%20core%20%E2%86%92-0F172A?style=for-the-badge&labelColor=0F172A" alt="Open core repository" /></a>
+<a href="https://github.com/OpenApparatus/core"><img src="https://img.shields.io/badge/Open%20core-1F883D?style=flat-square&labelColor=1F883D" alt="Open core" height="28" /></a>
 
 </td>
 <td width="33%" valign="top">
-
-<img src="https://img.shields.io/badge/DESKTOP%20APP-475569?style=flat-square&labelColor=475569" alt="Desktop app" />
 
 ### [studio](https://github.com/OpenApparatus/studio)
 
 A desktop authoring environment. Design an apparatus visually, preview it live, and export it for use elsewhere — rendering, simulation, or publication figures.
 
-<br>
-
-<a href="https://github.com/OpenApparatus/studio"><img src="https://img.shields.io/badge/Open%20studio%20%E2%86%92-0F172A?style=for-the-badge&labelColor=0F172A" alt="Open studio repository" /></a>
+<a href="https://github.com/OpenApparatus/studio"><img src="https://img.shields.io/badge/Open%20studio-1F883D?style=flat-square&labelColor=1F883D" alt="Open studio" height="28" /></a>
 
 </td>
 <td width="33%" valign="top">
-
-<img src="https://img.shields.io/badge/UNITY%20INTEGRATION-475569?style=flat-square&labelColor=475569" alt="Unity integration" />
 
 ### [unity](https://github.com/OpenApparatus/unity)
 
 The Unity integration. Drop it into a Unity project to bring OpenApparatus environments straight into your scenes.
 
-<br>
-
-<a href="https://github.com/OpenApparatus/unity"><img src="https://img.shields.io/badge/Open%20unity%20%E2%86%92-0F172A?style=for-the-badge&labelColor=0F172A" alt="Open unity repository" /></a>
+<a href="https://github.com/OpenApparatus/unity"><img src="https://img.shields.io/badge/Open%20unity-1F883D?style=flat-square&labelColor=1F883D" alt="Open unity" height="28" /></a>
 
 </td>
 </tr>
